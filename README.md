@@ -1,13 +1,12 @@
-# Hi there, I'm Phhongsakron Chingnu! 👋
+# Hi there, I'm Phongsakron Chingnu.
 
 ### About Me
   นักศึกษาสาขา วิทยาการคอมพิวเตอร์ ชั้นปีสุดท้ายที่กำลังจะจบการศึกษา (Senior Student) 🎓
-ปัจจุบันกำลัง **ฝึกงาน (Internship)** ในตำแหน่ง Developer และมีความสนใจอย่างมากในการพัฒนา **Web Application**
+ปัจจุบันกำลัง **ฝึกงาน (Internship)** ในตำแหน่ง Developer และมีความสนใจในการพัฒนา **Web Application**
 กำลังพัฒนาทักษะ **Full Stack Developer** 
 
 - 🔭 I’m currently working as an: **Intern Developer**
 - 🌱 I’m currently learning: **Web Application Architecture & Best Practices**
-- 🎯 My Goal: To build scalable and efficient web applications.
 - 📫 How to reach me: **dear0935780211@gmail.com**
 
 ---
