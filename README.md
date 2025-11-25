@@ -32,5 +32,5 @@
 ---
 
 ### 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats-decode357s-projects.vercel.app/api?username=Decode357&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats-decode357s-projects.vercel.app/api?username=Decode357&show_icons=true&theme=radical&cache_seconds=1)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Decode357&layout=compact&theme=radical)
