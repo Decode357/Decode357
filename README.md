@@ -2,7 +2,7 @@
 
 ### About Me
   นักศึกษาสาขา วิทยาการคอมพิวเตอร์ ชั้นปีสุดท้ายที่กำลังจะจบการศึกษา (Senior Student) 🎓
-ปัจจุบันกำลัง **ฝึกงาน (Internship)** ในตำแหน่ง Developer และมีความสนใจในการพัฒนา **Web Application**
+มีความสนใจในการพัฒนา **Web Application**
 กำลังพัฒนาทักษะ **Full Stack Developer** 
 
 - 🔭 I’m currently working as an: **Intern Developer**
@@ -30,8 +30,3 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ---
-
-### 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats-decode357s-projects.vercel.app/api?username=Decode357&show_icons=true&theme=radical&cache_seconds=1)
-![Top Langs](https://github-readme-stats-decode357s-projects.vercel.app/api/top-langs/?username=Decode357&layout=compact&theme=radical)
-
